@@ -1,7 +1,7 @@
 ## Spirals
 ### Hack with P5.js - GHW Oct 2022
 
-⚠️ **Please be aware that Spirals contains a rotating geometric pattern of bright colors** 
+⚠️ **Please be aware that Spirals is a rotating geometric pattern of bright colors** 
 
 Spirals is a small code-to-art project made with [P5.js](https://p5js.org) for [Global Hack Week's](https://ghw.mlh.io/oct) hack with P5.js challenge. 
 
@@ -12,3 +12,9 @@ The color palette was found [here.](https://coolors.co/palette/ffadad-ffd6a5-fdf
 
 #### Setup
 To setup and view this project in the browser I used the p5.vscode and Live Server VSCode extensions. For alternatives, see the P5.js [Get Started](https://p5js.org/get-started/) guide.
+
+#### Examples
+The clip below features a **high-contrast moving geometric pattern**. Still photos [here.](./examples)
+
+https://user-images.githubusercontent.com/59973863/198203884-15b7f131-1c20-4698-bc43-69fbded741b3.mov
+
