@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: "Titillium Web", sans-serif;
+}
+body {
+  padding: 0.2em 0.5em;
+}
+canvas {
+  display: block;
+}
+
+p {
+  color: rgb(128, 128, 128);
+  font-size: 0.9em;
+}
+
+.commands {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.shapes {
+  color: rgb(83, 83, 83);
+}
+
+@media screen and (max-width: 600px) {
+  .shapes {
+    font-size: 0.8em;
+  }
+}
