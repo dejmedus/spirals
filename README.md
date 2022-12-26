@@ -1,6 +1,4 @@
 ## Spirals
-### Hack with P5.js
-
 ⚠️ **Please be aware that Spirals is a rotating geometric pattern of bright colors** 
 
 Spirals is a small code-to-art project made with [P5.js](https://p5js.org) for [Global Hack Week's](https://ghw.mlh.io/oct) hack with P5.js challenge. It allows the generation of 6 different spiralling patterns to create interesting visuals.
